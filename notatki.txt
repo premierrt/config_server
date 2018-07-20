@@ -4,3 +4,5 @@ https://spring.io/guides/gs/centralized-configuration/
 http://www.baeldung.com/spring-cloud-configuration
 
 https://dzone.com/articles/intro-to-spring-cloud-config-server
+
+//http://localhost:8888/glupi_kontroler/default
